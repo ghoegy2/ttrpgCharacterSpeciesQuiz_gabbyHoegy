@@ -18,7 +18,7 @@ How to Compile and Run (Windows):
 2. On the GitHub repository page, navigate to the "<> Code" button and click "Download ZIP". Extract the project files into a
    new folder.
 3. Open the folder in Visual Studio Code and navigate to the "ttrpgCharSpeciesQuiz_main.cpp" file.
-4. In Visual Studio Code, ensure that your C/C++:Edit Configurations (UI) settings are set to gnu++17 for C++ standard,
-   and that your compiler path contains mingw64 and GCC.
+4. In Visual Studio Code, ensure that your "C/C++: Edit Configurations (UI)" settings are set to gnu++17 for "C++ standard",
+   and that your "Compiler path" contains mingw64 and GCC.
 5. Open a terminal in Visual Studio Code. Enter "g++ ttrpgCharSpeciesQuiz_main.cpp -o ttrpgCharSpeciesQuiz_main.exe" to compile
    the code. Then, enter "./ttrpgCharSpeciesQuiz_main.exe" to run the code. :)
