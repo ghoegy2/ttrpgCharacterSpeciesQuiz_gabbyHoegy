@@ -12,7 +12,7 @@ It is runnable using Visual Studio Code 1.107.1 (IDE), C++17 (programming langua
 How to Compile and Run (Windows):
 
 1. Ensure that Visual Studio Code 1.107.1, C++17, and mingw-w64 GCC 15.2.0 are installed on your machine.
-2. On the GitHub repository page, navigate to the "<> Code" button and click "Download ZIP". Extract the project file into a
+2. On the GitHub repository page, navigate to the "<> Code" button and click "Download ZIP". Extract the project files into a
    new folder.
 3. Open the folder in Visual Studio Code and navigate to the "ttrpgCharSpeciesQuiz_main.cpp" file.
 4. In Visual Studio Code, ensure that your C/C++:Edit Configurations (UI) settings are set to gnu++17 for C++ standard,
